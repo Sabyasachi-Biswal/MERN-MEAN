@@ -1,0 +1,12 @@
+#show_movies{
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    gap: 2px;
+}
+
+#show_movies img{
+    width:500px;
+    height:500px;
+    object-fit:cover;
+
+}

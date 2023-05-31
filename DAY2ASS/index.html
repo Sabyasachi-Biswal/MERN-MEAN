@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>DAY2ASSIGNMENT</title>
+    <style>
+    ul.navigation{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #673030;
+    }
+    li.nav-item a {
+        display: block;
+        color: rgb(193, 212, 167);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    li.nav-item {
+        float: left;
+    }
+    li.nav-item a:hover {
+        background-color: rgb(189, 84, 111);
+    }
+    #hotelphoto{
+        background-color: rgb(189, 84, 111);
+    }
+    </style>
+</head>
+<body style="background-color: aqua;">
+    <h1 align="center">Taj Mahal Palace Hotel,Mumbai</h1>
+    <div>
+        <ul class="navigation">
+            <li class="nav-item"><a href="#home">Home</a></li>
+            <li class="nav-item"><a href="#about">About</a></li>
+            <li class="nav-item"><a href="#contact">Contact</a></li>
+            <li class="nav-item"><a href="#notifications">Notification</a></li>
+        </ul>
+    </div>
+    <hr>
+    <div id="hotelphoto">
+        Click Here to See the hotel<button id="clickable">Click here</button>
+    </div>
+    <div id="showable"></div>
+    <hr>
+    <p align="center"><b>Click on the button "Click me to see" to see the about of Taj Hotel</b></p>
+    <div id="showable1">
+        <textarea name="" id="content" cols="30" rows="10"></textarea>
+        <button id="clickable1">Click me to show</button>
+        <button id="clickable2">Click me to not show</button>
+    </div>
+    <hr>
+    <p align="center"><b>Click here more info about Taj</b></p>
+    <div id="showable2">
+        <button id="clickable3">Click me to see</button>
+        <button id="clickable4">Click me to not see</button>
+        <table>
+            <tr>
+                <th>Sno</th>
+                <th>Name</th>
+                <th>Builder</th>
+                <th>Total number of rooms</th>
+            </tr>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+    <hr>
+</body>
+<script src="./SeeImage.js"></script>
+<script src="./seeText.js"></script>
+<script src="./seeTable.js"></script>
+</html>
