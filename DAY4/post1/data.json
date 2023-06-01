@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": "1001209021",
+      "email": "sabysachibiswal@gmail.com",
+      "password": "saby1234"
+    },
+    {
+      "id": "2001902134",
+      "email": "biswaranjandas@gmail.com",
+      "password": "biswa12345"
+    },
+    {
+      "id": "29091426781",
+      "email": "aryamaandas@gmail.com",
+      "password": "aryamaan2134"
+    },
+    {
+      "id": "1234567890",
+      "email": "sambitdas@gmail.com",
+      "password": "sambit1234"
+    },
+    {
+      "id": "8765894326",
+      "email": "omkardas@gmail.com",
+      "password": "om@123"
+    },
+    {
+      "id": 1685611930997,
+      "email": "admin@gmail.com",
+      "password": "sabysgs"
+    }
+  ]
+}
