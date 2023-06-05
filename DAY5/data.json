@@ -1,0 +1,18 @@
+{
+  "racipe": [
+    {
+      "item": "Chicken Tikka Masala",
+      "description": "The only dish that’s probably more popular than this one would be chicken tikka, but even then it’s a close call. Tandoori chicken’s juicy consistency and mouthwatering spices make it a classic that never really goes out of style and always manages to make new fans with each serving.",
+      "image": "chickentikkamasala.jpeg",
+      "price": "120",
+      "id": 2
+    },
+    {
+      "item": "Biryani",
+      "description": "Every cuisine seems to have its own special rice dish―for Indians; this dish is biryani. The presentation of Biryani not only looks beautiful but has an addictive characteristic, earning it lots of devotees. Its blooming flavors and fluffy rice are enhanced by vegetables and sometimes meats, making it a favorite for vegetarians and meat lovers alike.",
+      "image": "biriyani.jpeg",
+      "price": "120",
+      "id": 3
+    }
+  ]
+}

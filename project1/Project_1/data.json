@@ -1,0 +1,46 @@
+{
+  "mydata": [
+    {
+      "name": "sabya",
+      "email": "sabya@gmail.com",
+      "password": "123123",
+      "id": 2
+    },
+    {
+      "name": "Aryaman",
+      "email": "aryaman@gmail.com",
+      "password": "12",
+      "id": 3
+    },
+    {
+      "name": "Ayeshkant",
+      "email": "Ayeshkant@gmail.com",
+      "password": "123123",
+      "id": 4
+    },
+    {
+      "name": "Sambit",
+      "email": "sambit@gmail.com",
+      "password": "123123",
+      "id": 5
+    },
+    {
+      "name": "Biswaranjan Das",
+      "email": "dasbiswaranjan236@gmail.com",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "name": "srinuu",
+      "email": "srinu234@gmail.com",
+      "password": "srinuu",
+      "id": 13
+    },
+    {
+      "name": "abhinav",
+      "email": "abhinav@gmail.com",
+      "password": "abhinav",
+      "id": 14
+    }
+  ]
+}
